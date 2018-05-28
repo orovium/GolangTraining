@@ -1,4 +1,4 @@
 package stringutil
 
 // MyName will be exported because it starts with a capital letter
-var MyName = "Javi"
+var MyName string = "Javi"
