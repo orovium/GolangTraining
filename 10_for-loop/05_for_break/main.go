@@ -12,5 +12,3 @@ func main() {
 		i++
 	}
 }
-
-//caution caution when run this code
